@@ -1,6 +1,6 @@
     Table of Contents
 
-Social Media
+1. Social Media
 Marketing
 Email Marketing
 Competitor Research
